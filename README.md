@@ -1,2 +1,1 @@
-# pinsafe_app
-PINsafe App for Splunk
+# PINsafe App for Splunk
